@@ -57,3 +57,4 @@ My journey as a self taught security analyst has led me to develop a passion for
 - Conducted an internal security audit
 - Designed  local network
 - Analyze network layer communication
+- Analyze network attacks
